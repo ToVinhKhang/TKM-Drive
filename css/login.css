@@ -1,0 +1,15 @@
+form{
+	max-width: 500px;
+    margin: auto;
+}
+#ErrorMess{
+    color: red;
+}
+*{
+    font-size: 18px;
+    font-family: sans-serif;
+}
+button{
+    float: right;
+    width: 15%;
+}
